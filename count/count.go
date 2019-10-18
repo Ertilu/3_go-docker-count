@@ -2,7 +2,7 @@ package count
 
 import (
 	"strconv"
-	s "strings"
+	s "strings" 
 )
 
 func Count(sentence string) (string, string) {
