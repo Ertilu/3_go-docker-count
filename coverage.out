@@ -1,0 +1,6 @@
+mode: set
+countDockerService/main.go:9.55,12.2 2 1
+countDockerService/main.go:14.62,15.24 1 1
+countDockerService/main.go:21.2,21.93 1 0
+countDockerService/main.go:15.24,20.3 4 1
+countDockerService/main.go:24.13,33.2 5 1
